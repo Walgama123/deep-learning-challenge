@@ -24,7 +24,7 @@ Compiling, Training, and Evaluating the Model
 	<img src="images/InitialModelParam.png">
 </div>
 
-### Model Performance:
+#### Model Performance:
 - Number of epochs=100
 <div align="left">
 	<img src="images/InitialModelAccuracy.png">
@@ -45,7 +45,7 @@ Adjusted the number of neurons and layers, and experimented with different activ
 	<img src="images/InitialModelParam.png">
 </div>
 
-- Model Performance:
+#### Model Performance:
   - Number of epochs=100
   
 <div align="left">
@@ -57,7 +57,7 @@ Adjusted the number of neurons and layers, and experimented with different activ
 	<img src="images/InitialModelParam.png">
 </div>
 
-- Model Performance:
+#### Model Performance:
   - Number of epochs=100
   
 <div align="left">
@@ -69,7 +69,7 @@ Adjusted the number of neurons and layers, and experimented with different activ
 	<img src="images/InitialModelParam.png">
 </div>
 
-- Model Performance:
+#### Model Performance:
   - Number of epochs=100
   
 <div align="left">
