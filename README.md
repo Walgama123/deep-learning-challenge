@@ -76,7 +76,7 @@ Try to reduce the features that not significantly influence the target using cor
   - Number of epochs=50
   
 <div align="left">
-	<img src="images/Optimization2Accuracy.png.png">
+	<img src="images/Optimization2Accuracy.png">
 </div>
 
 ### Third optimization Attempt 
