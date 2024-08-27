@@ -43,36 +43,28 @@ Adjusted the number of neurons and layers, and experimented with different activ
 <div align="left">
 	<img src="images/InitialModelParam.png">
 </div>
-#### Model Performance:
-- Number of epochs=100
+- Model Performance:
+  - Number of epochs=100
 <div align="left">
 	<img src="images/InitialModelAccuracy.png">
 </div>
 
-### Second Optimization Attempt
+### Second optimization Attempt 
 <div align="left">
 	<img src="images/InitialModelParam.png">
 </div>
-#### Model Performance:
-- Number of epochs=100
+- Model Performance:
+  - Number of epochs=100
 <div align="left">
 	<img src="images/InitialModelAccuracy.png">
 </div>
-### Thrid Optimization Attempt
+### Third optimization Attempt 
 <div align="left">
 	<img src="images/InitialModelParam.png">
 </div>
-#### Model Performance:
-- Number of epochs=100
+- Model Performance:
+  - Number of epochs=100
 <div align="left">
 	<img src="images/InitialModelAccuracy.png">
-</div>src="images/classificationreport.png">
 </div>
 
-## Summary
-The deep learning model demonstrated an accuracy of 72.54%, slightly below the target of 75%. 
-While the model showed potential, further optimization and feature engineering are necessary.
-
-## Recommendation for Alternative Model
-Considering the complexity and nature of the data, 
-a Random Forest classifier could be an alternative model to explore. Random Forests are robust to over fitting and can handle a large number of input features, potentially improving accuracy.
